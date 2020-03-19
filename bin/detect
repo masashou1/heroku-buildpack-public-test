@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+echo "This is detect of empty buildpatck."
+# exit 0 ‚·‚ê‚Îdetect‚Í¬Œ÷”»’è
+exit 0
